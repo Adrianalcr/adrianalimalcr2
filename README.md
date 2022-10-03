@@ -13,9 +13,8 @@
   <img align="center" alt="Drika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Drika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Drika-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
- <img align="center" alt="Drika-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
- <img align="center" alt="Drika-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
+  <img align="center" alt="Drika-php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Drika-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img align="right" alt="Drika-pic" height="150" style="border-radius:50px;" src="img/eu.png">
 </div>
 
@@ -25,7 +24,7 @@
 <div> 
   <a href="https://instagram.com/adriianna_lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href = "mailto:adrianalima-dev@outlook.com"><img src="img/outlook.png/-email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href = "mailto:adrianalima-dev@outlook.com"><img src="https://img.shields.io/badge/-email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
     
   <a href="https://www.linkedin.com/in/adriana-lima-cr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
